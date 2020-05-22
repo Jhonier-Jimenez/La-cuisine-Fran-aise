@@ -1,0 +1,49 @@
+body{
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 1.5rem;
+}
+
+hr{
+  width: 4%;
+  margin: 50px auto;
+  border-width: 8px;
+  border-color: grey;
+  border-style:dotted none none none;
+}
+
+.title{
+  color: white;
+  background-color: #0779e4;
+  padding: 3.5%;
+}
+
+#title{
+  font-family: 'Caveat', cursive;
+  font-size: 5rem;
+  font-weight: bold;
+}
+
+.middle-container{
+  padding: 3%;
+}
+
+.card-img-top{
+}
+
+footer{
+  padding: 2% 15%;
+  text-align: center;
+  background-color: #d92027;
+  margin-top: 3.3%;
+}
+
+.footer-icon{
+margin: auto 20px;
+color: #fff;
+margin-bottom: 15px;
+}
+
+.footer-text{
+  color: #fff;
+}
